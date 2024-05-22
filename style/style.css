@@ -1,0 +1,6 @@
+.container{
+    border: 3px double rgb(114, 33, 206);
+    height: auto;
+    width: 300px;
+    background-color: rgb(66, 180, 233);
+}
